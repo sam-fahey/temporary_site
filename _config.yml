@@ -103,10 +103,7 @@ analytics:
 author:
   name             : "Sam Fahey"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
-    "I am a scientist and data analyst completing a Physics Ph.D. from the University of Wisconsin - Madsion.
-     More words.
-     More."
+  bio              : "I am a scientist and data analyst completing a Physics Ph.D. from the University of Wisconsin - Madsion."
   location         : "Somewhere"
   email            :
   links:
