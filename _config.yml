@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Fahey Sam Fhaey"
+title                    : "Sam Fahey"
 title_separator          : "-"
 name                     : "Sam Fahey"
 description              : "An amazing website."
@@ -101,9 +101,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sam Fahey"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : 
+    "I am a scientist and data analyst completing a Physics Ph.D. from the University of Wisconsin - Madsion.
+     More words.
+     More."
   location         : "Somewhere"
   email            :
   links:
